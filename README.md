@@ -23,7 +23,7 @@ A perfect challenge for those who are new to HTML and CSS. This challenge is cre
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://karthi-es.github.io/QR-code-component/)
 
 ### Built with
 

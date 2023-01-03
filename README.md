@@ -22,7 +22,7 @@ A perfect challenge for those who are new to HTML and CSS. This challenge is cre
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/qr-code-component-MknHKJE_I8)
 - Live Site URL: (https://karthi-es.github.io/QR-code-component/)
 
 ### Built with

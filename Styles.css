@@ -1,14 +1,14 @@
-.attribution{
+/* .attribution{
     margin-left: 700px;
     position: absolute;
     bottom: 0;
-}
+} */
 body{
     text-align: center;
     font-family: 'Outfit', sans-serif;
     font-size: 1rem;
     background-color: hsl(212, 45%, 89%);
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 
 .content{
@@ -18,7 +18,7 @@ body{
 
 .qr{
     height: 300px;
-    width: 300px;
+    width: 100%;
     border-radius: 15px;
 }
 
@@ -36,7 +36,11 @@ p{
 .top{
     padding-top: 15px;
     padding-bottom: 20px;
-    margin: 100px 595px 80px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 100px auto 80px;
+    /* margin: auto; */
+    max-width: fit-content;
     background-color: hsl(0, 0%, 100%);
     border-radius: 15px;
     
